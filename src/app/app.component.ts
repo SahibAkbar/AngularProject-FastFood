@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-
+import { AppRoutingModule } from './app-routing.module';
+import { StarRatingComponent } from 'ng-starrating';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
